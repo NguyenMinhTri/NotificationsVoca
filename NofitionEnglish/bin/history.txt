@@ -1,0 +1,198 @@
+199	0	refund	ˈriːfʌnd	hoàn tiền lại
+198	0	reliable	rɪˈlaɪəbl	đáng tin cậy
+197	0	function	ˈfʌŋkʃn	chức năng
+196	0	delivered	♥	giao hàng
+195	0	outstanding	aʊtˈstændɪŋ	nỗi bật
+194	0	among + N	♥	among + N
+193	0	fund	fʌnd	hỗ trợ, hủy
+192	0	conduct	kənˈdʌktɪŋ	thực hiện
+191	0	purchase	ˈpɜːrtʃəs	mua
+190	0	depend on	♥	dựa vào
+189	0	individual	ˌɪndɪˈvɪdʒuəl	cá nhân, riêng biệt
+188	0	dedication	ˌdedɪˈkeɪʃn	sự cống hiến
+187	0	renowned	rɪˈnaʊnd	nỗi tiếng
+186	0	more than, over	♥	hơn
+185	0	suitable project	♥	dự án thích hợp
+184	0	via	ˈviːə	thông qua
+183	0	communicate	kəˈmjuːnɪkeɪtɪŋ	giao tiếp
+182	0	tend on	♥	có khuynh hướng
+181	0	take something into account	♥	xem xét việc gì
+180	0	sightseeing	ˈsaɪtsiːɪŋ	tham quan, ngắm cảnh
+179	0	offer does not apply to watercolors	♥	sự cung cấp này không áp dụng cho màu nước
+178	0	absolotely free	♥	hoàn toàn miễn phí
+177	0	crew	kruː	đội , nhóm
+176	0	temporary	'tempərəri	tạm thời
+175	0	assume	əˈsuːmɪŋ	cho rằng
+174	0	admission fee	♥	phí vào cổng
+173	0	disappointed	ˌdɪsəˈpɔɪntɪd	thất vọng
+172	0	make a reservation, reserve	♥	đặt chỗ trước
+171	0	latest releases	♥	sản phẩm tung ra thị trường mới nhất
+170	0	afford	əˈfɔːrdɪŋ	có khả năng chỉ trả
+169	0	affordable prices	♥	giá phải chăn
+168	0	board	bɔːrd	lên máy bay
+167	0	destination	ˌdestɪˈneɪʃn	điểm đến, đích đến
+166	0	probably	♥	có thể
+165	0	pay increase	♥	mức tăng lương
+164	0	Be likely to V1	♥	rất có thể
+163	0	at least	♥	ít nhất
+162	0	majority of	♥	phần lớn
+161	0	survey	ˈsɜːrveɪ	khảo sát
+160	0	thief	θiːvz	kẻ trộm
+159	0	theft	θeft	sự ăn cắp
+158	0	get involved	♥	tham gia vào
+157	0	keep up with	♥	bắt kiệp
+156	0	procedure	prəˈsiːdʒər	thủ tục
+155	0	discriminate	dɪˈskrɪmɪneɪtɪŋ	phân biệt, đối xử
+154	0	supervisor	'sju:pəvaizə	giám sát
+153	0	official	əˈfɪʃl	chính thức
+152	0	no longer	♥	không còn nữa
+151	0	coupon	'ku:pɔn	phiếu khuyến mãi
+150	0	attention	əˈtenʃn	chú ý
+149	0	impress	ɪmˈpresɪŋ	ấn tượng
+148	0	anticipate, expect	♥	mong đợi
+147	0	apply for	♥	nộp để xin vào đâu
+146	0	apply to	♥	nộp cho ai ?
+145	0	file, submit	♥	nộp
+144	0	attendee	ˌætenˈdiː	người tham dự
+143	0	attendant	əˈtendənt	tiếp viên
+142	0	attendence	♥	sự tham dự
+141	0	attend	əˈtendɪŋ	tham dự
+140	0	pick you up	♥	đón
+139	0	comfirm	♥	xác nhận
+138	0	leading	'li:diɳ	hàng đầu
+137	0	distraction	dɪˈstrækʃn	sự sao nhãn
+136	0	monitor	'mɔnitə	quản lý
+135	0	base on	♥	được dựa trên
+134	0	describe	dɪˈskraɪbɪŋ	mô tả
+133	0	famous for	♥	nỗi tiếng về
+132	0	well-known	'wel'noun	nỗi tiếng
+131	0	in turn	♥	lần lượt
+130	0	Don't leave your bags attended	♥	đừng rời bỏ túi sách của bạn mà không được chú ý tới
+129	0	utilities	♥	tiện ích
+128	0	sencerely	♥	1 cách chân thành
+127	0	cut down on	♥	cắt giảm
+126	0	inquiry	in'kwaiəri	thư yêu cầu thông tin
+125	0	essential	ɪˈsenʃl	cần thiết
+124	0	citizen	ˈsɪtɪzn	công dân
+123	0	senior	ˈsiːniər	lớn tuổi
+122	0	hesitate	ˈhezɪteɪtɪŋ	do dự
+121	0	appliance	əˈplaɪəns	thiết bị điện
+120	0	efficient	ɪˈfɪʃnt	hiệu quả
+119	0	ineed	♥	thật vậy
+118	1	agent, representative	♥	người đại diện
+117	1	for further information	♥	để biết thêm thông tin
+116	1	feature	ˈfiːtʃər	có, tính năng, nổi bật
+115	1	approximately	əˈprɑːksɪmətli	sắp xỉ
+114	1	bargain	ˈbɑːrɡən	món hời, mặc cả
+113	1	specialist, expert	♥	chuyên gia
+112	1	merchandise	ˈmɜːrtʃəndaɪz	hàng hóa
+111	1	identify	aɪˈdentɪfaɪɪŋ	nhận diện, nhận dạng
+110	1	damage	ˈdæmɪdʒ	làm thiết hại
+109	1	separately	ˈseprətli	1 cách tách biệt
+108	1	love each other	♥	yêu nhau
+107	1	valuables	ˈvæljuəblz	tài sản , vật có giá trị
+106	1	be aware of	♥	nhận thức về
+105	1	subject to	♥	phải chịu, phải chấp nhận
+104	1	object to, oppose to	♥	phản đối
+103	1	per day	♥	trên ngày
+102	1	salary	ˈsæləri	tiền lương
+101	1	wage	weɪdʒ	tiền công
+100	1	definitely	ˈdefɪnətli	hoàn toàn, chắc chắn
+99	1	campaign	kæmˈpeɪn	chiến dịch
+98	1	potential	pəˈtenʃl	tiềm năng
+97	1	significantly	sɪɡˈnɪfɪkəntli	1 cách đáng kể
+96	1	dismiss, fire	♥	sa thải
+95	1	guest speaker	♥	khách mời nói chuyện
+94	1	opening ceremony	♥	nghi lễ khai giảng
+93	1	be about to V1	♥	sắp sửa
+92	1	submit	səbˈmɪtɪŋ	nộp
+91	1	aspect	ˈæspekt	khía cạch
+90	1	during	'djuəriɳ	+ thời kì
+89	1	suspension	səˈspenʃn	sự đình chỉ
+88	1	tolerate	ˈtɑːləreɪtɪŋ	tha thứ
+87	1	inform	ɪnˈfɔːrmɪŋ	thông báo
+86	1	financial aid	♥	hỗ trợ tài chính
+85	1	similar	ˈsɪmələr	tương tự
+84	1	contruct	♥	xây dựng
+83	1	instruct	ɪnˈstrʌktɪŋ	hướng dẫn
+82	1	facility	fəˈsɪləti	cơ sở, địa điểm
+81	1	make decisions	♥	quyết định
+80	1	unfortunately	ʌn>ˈfɔːrtʃənətli	không may thay
+79	1	consecutive	kənˈsekjətɪv	liên tiếp
+78	1	in addtion to	♥	thêm vào đó
+77	1	guarantee	ˌɡærənˈtiː	đảm bảo
+76	1	exceed	ɪkˈsiːdɪŋ	vượt quá
+75	1	regarding, related to, concerning	♥	liên quan tới
+74	1	remain	rɪˈmeɪnɪŋ	còn lại
+73	1	schedule	ˈʃedjuːl	lịch học
+72	1	make effort	♥	nổ lực
+71	1	assignment	əˈsaɪnmənt	nhiệm vụ được giao
+70	1	throughout	θruːˈaʊt	xuyên suốt
+69	1	regularly	'regjuləri	thường xuyên
+68	1	discount	ˈdɪskaʊnt	giảm giá
+67	1	in person	♥	trực tiếp
+66	1	appreciate	əˈpriːʃieɪtɪŋ	cảm kích
+65	1	deal with	♥	xử lí, giải quyết
+64	1	memo	,memə'rændə	thư báo nội bộ
+63	1	staff	stæf	cán bộ, nhân viên
+62	1	agenda	əˈdʒendə	chương trình nghị sự
+61	1	annual	ˈænjuəl	hàng năm
+60	1	therefore	'ðeəfɔ:	vì thế
+59	1	equal to	♥	tương đương
+58	1	almost all	♥	hầu như tất cả
+57	1	according to	♥	theo như
+56	1	serve as, work as	♥	+ 1 vị trí hoặc 1 nghề nghiệp
+55	1	matter	ˈmætər	vấn đề nghiêm ngặc
+54	1	policy	'pɔlisi	chính sách
+53	1	priority	praɪɔːrəti	ưu tiên
+52	1	hygiene	ˈhaɪdʒiːn	vệ sinh
+51	1	remind	rɪˈmaɪndɪŋ	nhắc nhở
+50	1	encourage	ɪnˈkɜːrɪdʒɪŋ	khuyến khích
+49	1	people in need, children in need, product in demand	♥	giúp ...
+48	1	without	wɪˈðaʊt	không có
+47	1	contribution	kɑːntrɪˈbjuːʃn	đóng góp
+46	1	cost	kɔːst	phí nhỏ
+45	1	charge	tʃɑːrdʒ	phí lớn
+44	1	routine	ruːˈtiːn	thói quen hằng ngày
+43	1	include, enclose, attach	♥	đính kèm
+42	1	be sure to + V1, make sure to + V1	♥	phải chắc chắn làm gì
+41	1	improve flexibility	♥	cải thiện sự linh hoạt
+40	1	benefit	ˈbenɪfɪt	lợi ích
+39	1	expert	'ekspə:t	chuyên gia
+38	1	convenience	kənˈviːniəns	tiện lợi
+37	1	take advantage of	♥	tận dụng, lợi dụng
+36	1	record	ˈrekərd	hồ sơ
+35	1	recommend, suggest, advise	♥	khuyên bảo, đề nghị
+34	1	make an appointment	♥	sắp xếp 1 cuộc hẹn
+33	1	announce	əˈnaʊnsɪŋ	công bố
+32	1	wonder if	♥	tự hỏi liệu
+31	1	estimate	ˈestɪmət	ước tính
+30	1	prior to + Ving	♥	= before + Ving
+29	1	take effect, come in effect, be/become effective, be in effect	♥	có hiệu lực
+28	1	coverage	ˈkʌvərɪdʒ	[n] phạm vi bảo hiểm
+27	1	cover	ˈkʌvərɪŋ	[v] bảo hiểm
+26	1	insurance	ɪn>ˈʃʊrəns	bảo hiểm
+25	1	superior to	♥	better than
+24	1	breach	briːtʃ	phá vỡ
+23	1	compensation	kɑːmpenˈseɪʃn	sự bồi thường
+22	1	seek	sɔːt	tìm kiếm
+21	1	warrantly	♥	bảo hành
+20	1	expire	ɪkˈspaɪərɪŋ	hết hạn
+19	1	fare	fer	tiền vé
+18	1	fines	fi'nes	tiền phạt
+17	1	maintenance	ˈmeɪntənəns	sự bảo trì
+16	1	as well as	♥	cũng như , ( công thức song song như and )
+15	1	wholesale	'houlseil	bán sỉ
+14	1	depression	dɪˈpreʃn	sự suy thoái
+13	1	retail	'ri:teil	bán lẻ
+12	1	variety of	♥	đa dạng
+11	1	located	♥	tọa lạc
+10	1	observe	əbˈzɜːrvɪŋ	tuân thủ, quan sát
+9	1	punctual	ˈpʌŋktʃuəl	đúng giờ
+7	1	expect	ɪkˈspektɪŋ	mong đợi
+6	1	complaint	kəmˈpleɪnt	làm phiền
+5	1	productivity	proʊdʌkˈtɪvəti	năng suất
+4	1	take the time	♥	dành thời gian
+3	1	keep out of the reach	♥	tranh xa tầm với
+2	1	consult	kənˈsʌltɪŋ	tư vấn
+1	1	refrigerate	rɪˈfrɪdʒəreɪtɪŋ	làm lạnh

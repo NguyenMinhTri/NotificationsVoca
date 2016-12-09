@@ -1,0 +1,93 @@
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\bin\Debug\NofitionEnglish.exe.config
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\bin\Debug\NofitionEnglish.exe
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\bin\Debug\NofitionEnglish.pdb
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\Interop.WMPLib.dll
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.ResolveComReference.cache
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.Form1.resources
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.Properties.Resources.resources
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.GenerateResource.Cache
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.exe
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.pdb
+F:\Dropbox\Begin Direct\NofitionEnglish\NofitionEnglish\obj\Debug\NofitionEnglish.csprojResolveAssemblyReference.cache
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe.config
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\Interop.WMPLib.dll
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.ResolveComReference.cache
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.exe
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.pdb
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.pdb
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csprojResolveAssemblyReference.cache
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Form1.resources
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Properties.Resources.resources
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.GenerateResource.Cache
+F:\Dropbox\Begin Direct\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.AddVoca.resources
+H:\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe.config
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\Interop.WMPLib.dll
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.ResolveComReference.cache
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.exe
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.pdb
+H:\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe
+H:\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.pdb
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csprojResolveAssemblyReference.cache
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.AddVoca.resources
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Form1.resources
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Nofition.resources
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Properties.Resources.resources
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.GenerateResource.Cache
+H:\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.TracNghiem.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe.config
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\Interop.WMPLib.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.ResolveComReference.cache
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.exe
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.pdb
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.exe
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\NofitionEnglish.pdb
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Data.v14.1.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Utils.v14.1.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.XtraBars.v14.1.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\Parse.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\Parse.NetFx45.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Data.v14.1.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.XtraBars.v14.1.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\Parse.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\Parse.NetFx45.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.AddVoca.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Form1.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.FormLogin.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Nofition.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Properties.Resources.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.TracNghiem.resources
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.csproj.GenerateResource.Cache
+F:\Dropbox\Dict Android + Window\NofitionEnglish2.0\NofitionEnglish\obj\Debug\NofitionEnglish.Register.resources
